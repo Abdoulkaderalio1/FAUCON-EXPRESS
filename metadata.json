@@ -1,0 +1,8 @@
+{
+  "name": "FAUCON EXPRESS - Livraison Express à Niamey",
+  "description": "Service de livraison express de colis, plis urgents et e-commerce à Niamey. Commandez votre coursier instantanément ou contactez-nous au +227 99 61 40 98.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
